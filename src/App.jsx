@@ -33,7 +33,6 @@ function App() {
 
           <Lista 
           pacientes = {pacientes}
-          
           setPaciente = {setPaciente}
           eliminarPacientes ={eliminarPacientes}
           />
